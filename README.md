@@ -20,8 +20,8 @@ It provides a clean admin interface and modular apps for handling accounts, clie
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/santexnika.git
-cd santexnika
+git clone https://github.com/dev-723743344/Shopping.io.git
+cd Shopping.io
 ```
 
 ### 2. Create a virtual environment
@@ -111,8 +111,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## ✨ Author
-Developed by [Your Name]  
-📧 Contact: [your.email@example.com]  
-🌐 GitHub: [https://github.com/<your-username>]
+Developed by [Sadriddin Axmadullayev]  
+📧 Contact: [saxmadullayev@gmail.com]  
+🌐 GitHub: [https://github.com/dev-723743344]
 
 Feel free to contribute or open issues on GitHub!
